@@ -44,8 +44,6 @@ Expected Output:
   RAFT Verification: The script seamlessly passes consecutive dummy frames through the pre-trained RAFT optical flow model to calculate and print the tOF Warping Error.
 
 📂 Repository Structure
-Plaintext
-
 ├── train.py           # Core implementation of the Semantic Generator, Discriminator, and tOF pipeline
 ├── loss_plot.png      # Output graph showing initial model convergence
 └── README.md          # Project documentation
